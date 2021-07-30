@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("https://media.istockphoto.com/photos/colorful-crayon-background-picture-id649665242?k=6&m=649665242&s=170667a&w=0&h=Oon5SlFam3kET7eCN_J8jUrxzVM3AeJ4Bwv8dDEyRC0=");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
